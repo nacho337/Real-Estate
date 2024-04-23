@@ -22,10 +22,9 @@
     },
     "three": {
       "title": "Explore The Properties",
-      "subtitle": "",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713468469/5UWNFTMQSNHFRJ6VUNNYFIGSGQ_nyrhxn.jpg",
       "alt1": "three section image 1",
-      "image2": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713468737/w8Fgj_Lkh_1256x620__1_s5vko3.jpg",
+      "image2": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713885122/bosco-verticale-designed-by-stefano-boeri-2014-royalty-free-image-1676998427_hjtp9j.jpg",
       "alt2": "three section image 2",
       "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713468904/rJX8zYeEx_720x0_x4yb4x.jpg",
       "alt3": "three section image 3"
@@ -57,7 +56,9 @@
       "title": "WATCH MY INTRO VIDEO",
       "subtitle1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "subtitle2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "description": ""
+      "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713893666/Captura_de_pantalla_2024-04-23_a_la_s_14.25.19_dsvt3y.png",
+      "alt1": "six section image1"
+      
     },
     "seven": {
       "title": "Subscribe Us For Latest",

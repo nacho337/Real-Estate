@@ -11,6 +11,13 @@ function FourSection() {
         backgroundPosition: "center",
       }}
     >
+      <div>
+<img
+src={data.sections.six.image1}
+alt={data.sections.six.alt1}
+className="sm:w-full px-4 sm:px-0 object-cover object-center mx-auto col-span-2 sm:col-span-1"
+/>
+</div>
       <div className="sm:grid sm:grid-cols-2 gap-6">
         <p className="text-green col-span-2 text-2xl w-full lg:w-1/2 py-6">
           {data.sections.six.title}
@@ -30,6 +37,9 @@ function FourSection() {
             <p className="text-green text-xl">{data.sections.six.subtitle2}</p>
             <p className="text-green text-md">
               {data.sections.six.description}
+
+            
+              
             </p>
           </div>
         </div>
