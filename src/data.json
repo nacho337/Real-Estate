@@ -54,7 +54,7 @@
     },
     "six": {
       "title": "WATCH MY INTRO VIDEO",
-      "subtitle1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "subtitle1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,isi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "subtitle2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713893666/Captura_de_pantalla_2024-04-23_a_la_s_14.25.19_dsvt3y.png",
       "alt1": "six section image1"
@@ -67,7 +67,14 @@
       "button": "Get Start",
       "error": "Please enter a valid email address."
     },
-    "footer": {
+    "eight":{
+      "title": "PROYECTS",
+      "subtitle": "",
+      "input_placeholder": "Enter your email",
+      "button": "Get Start",
+      "error": "Please enter a valid email address."
+    },
+        "footer": {
       
       "alt": "Landing logo",
       "text_logo": "",

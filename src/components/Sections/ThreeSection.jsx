@@ -22,7 +22,7 @@ function ThreeSection() {
         </div>
       </div>
       <div className="flex flex-col items-center justify-between">
-        <div className="text-black_dark text-2_5_xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mt-4 sm:mt-0 sm:mb-8 text-right">
+        <div className="text-black_dark text-2_5_xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mt-4 sm:mt-0 sm:mb-8 text-center">
           <p>{data.sections.five.title2}</p>
         </div>
         <div className="absolute bottom-0 right-0 bg-opacity-10 bg-[#D3E8FBB2] sm:w-[50%] z-10">

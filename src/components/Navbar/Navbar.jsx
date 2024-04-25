@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import data from "../../data.json";
+
+
 // import { HiMenu, HiX } from "react-icons/hi";
 
 function Navbar() {
@@ -57,7 +59,7 @@ function Navbar() {
               <div className="relative">
                 <div onClick={handleMenuOpen}
                  className="text-primary w-8 h-8 cursor-pointer">///</div>
-                <div className="absolute z-40 right-0 bg-green_light bg-[#e6f2dc] px-6 rounded-sm shadow-xl">
+                <div className="absolute z-40 right-0 bg-green_light bg-white px-6 rounded-sm shadow-xl">
                   <ul className="">
                     {data.sections.header.navbar.map((item, index) => (
                       <a
