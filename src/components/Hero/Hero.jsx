@@ -22,7 +22,7 @@ function Hero() {
           </h2>
           <p className="text-black text-xs mt-7">{data.sections.one.subtitule}</p>
           <div>
-      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-10 text-xs">
+      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
         Get Started
       </button>
          </div>

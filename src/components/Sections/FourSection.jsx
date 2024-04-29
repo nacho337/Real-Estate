@@ -2,50 +2,46 @@ import React from "react";
 import data from "../../data.json";
 
 function FourSection() {
-  return (
-    <div
-      className="w-full h-full p-8 py-20 sm:py-32 w-30"
-      style={{
-        backgroundImage: `url(${data.sections.backgrounds[1]})`,
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-      }}
-    >
-      <div>
-<img
-src={data.sections.six.image1}
-alt={data.sections.six.alt1}
-className="px-4 sm:px-0 object-cover object-center mx-auto col-span-2 sm:col-span-1"
-/>
-</div>
-      <div className="sm:grid sm:grid-cols-2 gap-6">
-        <p className="text-green col-span-2 text-2xl w-full lg:w-1/2 py-6 ml-4">
-          {data.sections.six.title}
-        </p>
-        <div className="flex items-center sm:items-end gap-6 sm:gap-3 py-6 justify-center">
-          {/* <p className="text-green text-7xl">01.</p> */}
-          <div className="flex gap-4">
-            <p className="text-green text-center">{data.sections.six.subtitle1}</p>
-            <p className="text-green text-center">
-              {data.sections.six.description}
-            </p>
-          </div>
-        </div>
-        {/* <div className="flex items-center sm:items-end gap-3 py-6 justify-center">
-          <p className="text-green text-7xl">02.</p>
-          <div className="flex flex-col gap-4">
-            <p className="text-green text-xl">{data.sections.six.subtitle2}</p>
-            <p className="text-green text-md">
-              {data.sections.six.description}
+  const words = data.sections.six.title.split(" ");
 
-            
-              
-            </p>
-          </div>
-        </div> */}
+  return (
+    <div className="relative">
+      <div className="grid sm:grid-cols-2 gap-2 mt-20">
+        <div className="flex flex-col justify-center items-start text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold">
+          <h2 style={{ lineHeight: "1.2" }}>
+            {words.map((word, index) => (
+              <span
+                key={index}
+                style={{
+                  color: word === "expertise" ? "#080808" : "inherit",
+                }}
+              >
+                {word}{" "}
+              </span>
+            ))}
+          </h2>
+          <p className="text-black text-xs mt-7">{data.sections.six.subtitule}</p>
+          <div>
+      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
+        Learn More
+      </button>
+         </div>
+          <h2 className="text-[#080808] sm:mb-60"></h2>
+          <img
+            src={data.sections.six.image1}
+            alt={data.sections.six.alt1}
+            width="100%"
+            height="auto"
+            className="block sm:hidden"
+          />
+        </div>
+        <div className="hidden sm:block">
+          <img src={data.sections.six.image1} alt={data.sections.six.alt1} />
+        </div>
       </div>
     </div>
   );
 }
 
 export default FourSection;
+          

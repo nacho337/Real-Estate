@@ -22,8 +22,8 @@ function ThreeSection() {
           </h2>
           <p className="text-black text-xs mt-7">{data.sections.five.subtitle}</p>
           <div>
-      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-10 text-xs">
-        Get Started
+      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
+        Learn More
       </button>
          </div>
           <h2 className="text-[#080808] sm:mb-60"></h2>
