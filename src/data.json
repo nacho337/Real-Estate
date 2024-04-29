@@ -1,33 +1,131 @@
 {
   "sections": {
     "header": {
-      "navbar": ["Home", "About", "Sellers", "Buyers", "Free Marketing Analysis","New Construccion", "Contact"],
-      "logo": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713467471/Pngtree_vector_hand_drawn_green_building_5454660_snnl21.png",
+      "navbar": ["Product", "Team", "Enterprise", "Explore", "Marketplace","Pricing", "Contact"],
+      "logo": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714160002/Captura_de_pantalla_2024-04-26_a_la_s_16.31.27_frclwt.png",
       "alt": "Landing logo",
-      "text_logo": "Jim Henry"
+      "text_logo": "DOLM"
     },
     "one": {
-      "title": "Real Estate Advice For Real Locals",
-      "image": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713467068/pexels-timur-saglambilek-87223-2-1-1024x576_xuamip.jpg",
+      "title": "AI MARKETING OPTIMIZED REACH",
+      "subtitule":"Our vision is to revolutionize the way brands and advertisers target, reach",
+      "image": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714161693/image_3_ouh7xv.png",
       "alt": "one section image"
     },
     "two": {
-      "title": "Full-Service Agent, Modern Technology",
-      "filtersbar": {
-        "hospital": ["Modern Villas", "Item1", "Item2"],
-        "department": ["Furnished Homes", "Item1", "Item2"],
-        "doctors": ["Sweet Apartments", "Item1", "Item2"],
-        "date": ["Comercial Plots", "Item1", "Item2"]
+      "title": "",
+      "image1": {
       }
     },
     "three": {
-      "title": "Explore The Properties",
-      "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713468469/5UWNFTMQSNHFRJ6VUNNYFIGSGQ_nyrhxn.jpg",
-      "alt1": "three section image 1",
-      "image2": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713885122/bosco-verticale-designed-by-stefano-boeri-2014-royalty-free-image-1676998427_hjtp9j.jpg",
-      "alt2": "three section image 2",
-      "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713468904/rJX8zYeEx_720x0_x4yb4x.jpg",
-      "alt3": "three section image 3"
+      "title": "",
+      "photos": [
+        {
+          "id": 1,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404652/images_4_hbug7e.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396588/uba_logo_iq7rno.jpg",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396763/images_1_swsocp.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402049/WkUu90k3ghIWMFMpfoNO3z8Zz5r1700547823383_200x200_dw1ctt.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714401819/daxHLFpIIRblgOGcEwI3IWIyrzG1605399693116_200x200_dqelgu.png",
+          "alt": ""
+        },
+  
+        {
+          "id": 6,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402196/FBN_Bank_bgqmjk.gif",
+          "alt": ""
+        },
+        
+        {
+          "id": 7,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402858/cf047624d9202b7d16ec40cf6bcc-0e9_q9vvyg.png",
+          "alt": ""
+        },
+        
+        {
+          "id": 8,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403066/images_2_it6e2h.png",
+          "alt": ""
+        },
+        
+        {
+          "id": 9,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403413/linux-icon-19_jqz7ki.png",
+          "alt": ""
+        },
+
+        {
+          "id": 10,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403630/spotify-app-logo-spotify-icon-transparent-free-png_mkpgba.webp",
+          "alt": ""
+        },
+
+        {
+          "id": 11,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403867/images_3_doulfn.png",
+          "alt": ""
+        },
+
+        {
+          "id": 12,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404210/24683-2-facebook-logo-photos-thumb_cxfobk.png",
+          "alt": ""
+        },
+
+        {
+          "id": 13,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404464/cocacola-logo-cocacola-icon-free-free-vector_iesh8f.jpg",
+          "alt": ""
+        },
+
+        {
+          "id": 14,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404958/image-asset_ldpmzo.jpg",
+          "alt": ""
+        },
+        
+        {
+          "id": 16,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714409977/netflix_2014_zmkpks.png",
+          "alt": ""
+        },
+
+        {
+          "id": 17,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714410722/TWYoDqir_400x400_zacmdn.png",
+          "alt": ""
+        },
+        
+        {
+          "id": 18,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411414/paypal-vector-logo-200x200_zeyev5.webp",
+          "alt": ""
+        },
+
+        {
+          "id": 19,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411510/brand_zxfyz5.gif",
+          "alt": ""
+        }
+
+        
+      ]
     },
     "four": {
       "title": "",
@@ -43,14 +141,10 @@
       "band_text2": ""
     },
     "five": {
-      "title1": "",
-      "subtitle1": "",
-      "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713527091/shutterstock_77042365_d1l8bb.jpg",
-      "alt1": "five section image1",
-      "title2": "Explore The New Construccion.",
-      "subtitle2": "",
-      "image2": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713527253/euserspmorenoescritoriovi0001-jpg_fhuc4v.jpg",
-      "alt2": "five section image2"
+      "title": "AI MARKETING OPTIMIZED REACH",
+      "subtitle": "DOML is a digital media agency powered by AI technology providing real time, data-driven insights on your business and audience. The mission of DOML is to create the best experiences for companies through intelligence insights, powerful analytics and strategic execution.",
+      "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714398248/1_1_wzx8no.png",
+      "alt1": ""
     },
     "six": {
       "title": "WATCH MY INTRO VIDEO",

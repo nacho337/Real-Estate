@@ -14,21 +14,22 @@ function Navbar() {
   return (
     <div className="max-w-full">
       <header>
-        <nav className="flex justify-between px-8 py-6 sm:p-6 bg-[#e6f2dc] items-center w-full">
+        <nav className="flex justify-between px-8 py-6 sm:p-6 bg-white items-center w-full">
           <a href="/">
-            <div className="flex items-center gap-3 pr-4">
+            <div className="flex items-center gap- pr-4">
               <img
                 height={32}
                 width={32}
                 src={data.sections.header.logo}
                 alt={data.sections.header.alt}
               />
-              <p className="text-primary font-normal text-[24px] mb-1 lg:text-[28px]">
+              <p className="text-black">
                 {data.sections.header.text_logo}
               </p>
             </div>
           </a>
-          <ul className="items-center justify-around hidden sm:flex md:gap-2 lg:gap-8 xl:gap-12">
+          <ul className="items-center justify-around hidden sm:flex md:gap-2 lg:gap-8 xl:gap-12 mr-80">
+            
             {data.sections.header.navbar.map((item, index) => (
               <a
                 href="#"
@@ -41,6 +42,9 @@ function Navbar() {
               </a>
             ))}
           </ul>
+          <div>
+          <input type="text" className="text-white bg-black rounded-md" placeholder="Search DOML" />
+         </div>
           <div className="items-center text-lg hidden sm:flex gap-6 min-w-max-content px-4">
             <a
               href="#"
@@ -48,11 +52,16 @@ function Navbar() {
             >
               {data.sections.header.userLogin}
             </a>
-            {/* <button className="font-semibold text-white bg-primary py-2 px-6 md:py-3 md:px-9 cursor-pointer whitespace-nowrap button-class">
-              <p className="font-bold text-[14px] md:text-[16px] lg:text-[18px]">
+            <button className="bg-white text-black py-2 px-4 rounded">
+              <p className="font-bold text-[14px] md:text-[px] lg:text-[18px]">Sign in
                 {data.sections.header.userSignUp}
               </p>
-            </button> */}
+            </button>
+            <button className="bg-white text-black py-2 px-4 rounded border border-black">
+              <p className="font-bold text-[14px] md:text-[16px] lg:text-[18px]">Sign up
+                {data.sections.header.userSignUp}
+              </p>
+            </button>
           </div>
           <div className="sm:hidden">
             {isMenuOpen ? (
@@ -68,7 +77,7 @@ function Navbar() {
                         className="min-w-max-content greenspace-nowrap"
                       >
                         <li
-                          className={`font-bold text-green text-[14px] my-4 hover:text-primary active:text-green_dark`}
+                          className={`font-bold text-black text-[14px] my-4 hover:text-primary active:text-green_dark`}
                         >
                           {item}
                         </li>
