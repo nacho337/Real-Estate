@@ -14,7 +14,7 @@ function Navbar() {
   return (
     <div className="max-w-full">
       <header>
-        <nav className="flex justify-between px-8 py-6 sm:p-6 bg-white items-center w-full">
+        <nav className="flex justify-between px-7 py-6 sm:p-6  items-center w-full position: fixed bg-[white] p-4 fixed top-0 left-0 w-full z-5">
           <a href="/">
             <div className="flex items-center gap- pr-4">
               <img

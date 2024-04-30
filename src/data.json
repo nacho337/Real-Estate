@@ -122,6 +122,12 @@
           "id": 19,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411510/brand_zxfyz5.gif",
           "alt": ""
+        },
+        
+        {
+          "id": 20,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714504734/adobe-creative-cloud-logo-picture-3-200x200_jea9ja.png",
+          "alt": ""
         }
 
         
@@ -168,11 +174,20 @@
       "alt1": ""
  },
      "nine":{
-      "title": "",
-      "subtitule": "",
+      "title": "AI MARKETING OPTIMIZED REACH",
+      "subtitule": "It's all about getting your message in front of the right audience and creating those valuable relationships.Lear More about how DOML can help you do just that-all with a simple, easy-to-use platform.",
       "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714484900/22_msepkw.png",
       "alt1": ""
 },
+
+"ten":{
+  "title": "Get exponential reach vía AI Marketing",
+  "subtitule": "",
+  "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
+  "alt1": ""
+},
+
+
 
         "footer": {
       

@@ -1,8 +1,8 @@
 import React from "react";
 import data from "../../data.json";
 
-function EightSection() {
-  const words = data.sections.ten.title.split(" ");
+function SevenSection() {
+  const words = data.sections.nine.title.split(" ");
 
   return (
     <div className="relative">
@@ -20,31 +20,28 @@ function EightSection() {
               </span>
             ))}
           </h2>
-          <p className="text-black text-xs mt-7">{data.sections.ten.subtitule}</p>
+          <p className="text-black text-xs mt-7">{data.sections.nine.subtitule}</p>
           <div>
-          <div>
-          <input type="text" className="text-white bg-black rounded-md text-xl" placeholder="Enter your work email" />
-         </div>
       <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
-        Get in touch
+        Learn More
       </button>
          </div>
           <h2 className="text-[#080808] sm:mb-60"></h2>
           <img
-            src={data.sections.ten.image3}
-            alt={data.sections.ten.alt1}
+            src={data.sections.nine.image3}
+            alt={data.sections.nine.alt1}
             width="100%"
             height="auto"
             className="block sm:hidden"
           />
         </div>
         <div className="hidden sm:block">
-          <img src={data.sections.ten.image3} alt={data.sections.ten.alt1} />
+          <img src={data.sections.nine.image3} alt={data.sections.nine.alt1} />
         </div>
       </div>
     </div>
   );
 }
 
-export default EightSection;
+export default SevenSection;
           
