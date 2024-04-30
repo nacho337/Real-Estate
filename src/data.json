@@ -154,19 +154,26 @@
       
     },
     "seven": {
-      "title": "Subscribe Us For Latest",
-      "subtitle": "",
-      "input_placeholder": "Enter your email",
-      "button": "Get Start",
-      "error": "Please enter a valid email address."
+      "title": "",
+      "subtitule": "It's all about getting your message in front of the right audience and creating those valuable relationships.Lear More about how DOML can help you do just that-all with a simple, easy-to-use platform.",
+      "subtitule1": "AMAKA MICHAEL",
+      "subtitule2": "Media Executive, Buying & Control",
+      "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714489566/Rectangle_10_t1rekb.png",
+      "alt1": ""
     },
     "eight":{
-      "title": "PROYECTS",
-      "subtitle": "",
-      "input_placeholder": "Enter your email",
-      "button": "Get Start",
-      "error": "Please enter a valid email address."
-    },
+      "title": "AI MARKETING OPTIMIZED REACH",
+      "subtitule": "DOML is a digital media agency powered by AI technolog providing real time, data-driven insights on your business and audience.The mission of DOML is to create the best experiences for companies through intelligent insights, powerful analytics and strategic execution.",
+      "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714422956/50_1_z9dpwa.png",
+      "alt1": ""
+ },
+     "nine":{
+      "title": "",
+      "subtitule": "",
+      "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714484900/22_msepkw.png",
+      "alt1": ""
+},
+
         "footer": {
       
       "alt": "Landing logo",
@@ -199,9 +206,7 @@
         "designBy": "Design by",
         "designBy-mame": "Sourav Aich"
       }
-    },
-    "backgrounds": {
-      "1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1713553819/vinilo-verde-pastel-claro_p4x6zn.jpg"
     }
+    
   }
 }
