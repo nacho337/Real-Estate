@@ -7,6 +7,8 @@ import FiveSection from "../Sections/FiveSection";
 import SixSection from "../Sections/SixSection";
 import SevenSection from "../Sections/SevenSection";
 import EightSection from "../Sections/EightSection";
+import NineSection from "../Sections/NineSection";
+
 
 
 
@@ -21,7 +23,7 @@ function Body() {
       <SixSection />
       <SevenSection />
       <EightSection />
-  
+      <NineSection />
     </div>
   );
 }

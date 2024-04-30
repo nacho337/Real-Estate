@@ -12,7 +12,8 @@ function Navbar() {
   };
 
   return (
-    <div className="max-w-full">
+    <div className="max-w-full fixed top-0 w-full h-min-content"
+    style={{ backgroundColor: "white", zIndex: 100 }}>
       <header>
         <nav className="flex justify-between px-7 py-6 sm:p-6  items-center w-full position: fixed bg-[white] p-4 fixed top-0 left-0 w-full z-5">
           <a href="/">

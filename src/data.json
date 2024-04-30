@@ -187,6 +187,122 @@
   "alt1": ""
 },
 
+"eleven":{
+  
+  "title": "Trusted by the world's most ambitious teams.",
+  "photos": [
+    {
+      "id": 1,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404652/images_4_hbug7e.png",
+      "alt": ""
+    },
+    {
+      "id": 2,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396588/uba_logo_iq7rno.jpg",
+      "alt": ""
+    },
+    {
+      "id": 3,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396763/images_1_swsocp.png",
+      "alt": ""
+    },
+    {
+      "id": 4,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402049/WkUu90k3ghIWMFMpfoNO3z8Zz5r1700547823383_200x200_dw1ctt.png",
+      "alt": ""
+    },
+    {
+      "id": 5,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714401819/daxHLFpIIRblgOGcEwI3IWIyrzG1605399693116_200x200_dqelgu.png",
+      "alt": ""
+    },
+
+    {
+      "id": 6,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402196/FBN_Bank_bgqmjk.gif",
+      "alt": ""
+    },
+    
+    {
+      "id": 7,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402858/cf047624d9202b7d16ec40cf6bcc-0e9_q9vvyg.png",
+      "alt": ""
+    },
+    
+    {
+      "id": 8,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403066/images_2_it6e2h.png",
+      "alt": ""
+    },
+    
+    {
+      "id": 9,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403413/linux-icon-19_jqz7ki.png",
+      "alt": ""
+    },
+
+    {
+      "id": 10,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403630/spotify-app-logo-spotify-icon-transparent-free-png_mkpgba.webp",
+      "alt": ""
+    },
+
+    {
+      "id": 11,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403867/images_3_doulfn.png",
+      "alt": ""
+    },
+
+    {
+      "id": 12,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404210/24683-2-facebook-logo-photos-thumb_cxfobk.png",
+      "alt": ""
+    },
+
+    {
+      "id": 13,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404464/cocacola-logo-cocacola-icon-free-free-vector_iesh8f.jpg",
+      "alt": ""
+    },
+
+    {
+      "id": 14,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404958/image-asset_ldpmzo.jpg",
+      "alt": ""
+    },
+    
+    {
+      "id": 16,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714409977/netflix_2014_zmkpks.png",
+      "alt": ""
+    },
+
+    {
+      "id": 17,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714410722/TWYoDqir_400x400_zacmdn.png",
+      "alt": ""
+    },
+    
+    {
+      "id": 18,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411414/paypal-vector-logo-200x200_zeyev5.webp",
+      "alt": ""
+    },
+
+    {
+      "id": 19,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411510/brand_zxfyz5.gif",
+      "alt": ""
+    },
+    
+    {
+      "id": 20,
+      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714504734/adobe-creative-cloud-logo-picture-3-200x200_jea9ja.png",
+      "alt": ""
+    }
+
+  ]
+},
 
 
         "footer": {
@@ -196,30 +312,30 @@
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
       "links": {
         "Company": {
-          "name": "Company",
+          "name": "",
           "data": [
-            "Home",
-            "About",
-            "Sellers",
-            "Buyers"
+            "",
+            "",
+            "",
+            ""
           ]
         },
         "Support": {
-          "name": "Support",
+          "name": "",
           "data": ["Free Market Analysis", "New Construccion", "Contact"]
         },
         "Contact": {
           "name": "Contact",
-          "data": ["+1826535375535", "+1843228662422", "info@endriasdesign.com"]
+          "data": ["", "+1843228662422", ""]
         },
         "facebook-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/hjq0dwit3dofven8tuqv.png",
         "twitter-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/vmtv5mcgy42lqyohhoqd.png",
         "linkedin-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/aaq0ffsigfezrku5k2gt.png",
         "social-media-alt": "social media image",
-        "copy": "Copy right @2022",
-        "copy-name": "Jymhenry",
-        "designBy": "Design by",
-        "designBy-mame": "Sourav Aich"
+        "copy": "",
+        "copy-name": "",
+        "designBy": "",
+        "designBy-mame": ""
       }
     }
     

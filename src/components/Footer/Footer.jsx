@@ -3,12 +3,12 @@ import data from "../../data.json";
 
 function Footer() {
   return (
-    <footer className="flex justify-center pt-10 sm:pt-20 pb-6 pr-6 pl-10 sm:px-16 bg-[#e6f2dc] mt-4 overflow-hidden">
+    <footer className="flex justify-center pt-10 sm:pt-20 pb-6 pr-6 pl-10 sm:px-16 bg-[white] mt-4 overflow-hidden">
       <div className="container mx-auto grid grid-cols-3 sm:grid-cols-5 gap-2 sm:gap-12 text-black">
         {/* Columna 1 */}
         <div className="relative flex flex-col col-span-5 justify-between gap-8 sm:col-span-2 pr-6 mb-10 sm:mb-0">
           <a href="/">
-            <div className="flex items-center gap-3 pr-4">
+            {/* <div className="flex items-center gap-3 pr-4">
               <img
                 height={32}
                 width={32}
@@ -18,10 +18,10 @@ function Footer() {
               <p className="text-primary font-normal text-[20px] mb-1 lg:text-[28px]">
                 {data.sections.header.text_logo}
               </p>
-            </div>
+            </div> */}
           </a>
           <p className="text-base">{data.sections.footer.paragraph}</p>
-          <div className="flex items-center gap-4 sm:mb-24">
+          {/* <div className="flex items-center gap-4 sm:mb-24">
             <img
               height={32}
               width={31}
@@ -43,7 +43,7 @@ function Footer() {
               src={data.sections.footer.links["linkedin-icon"]}
               alt={data.sections.footer.links["social-media-alt"]}
             />
-          </div>
+          </div> */}
           <div className="absolute hidden sm:flex items-center gap-1 text-[12px] bottom-0">
             <p className="text-gray_light">{data.sections.footer.links.copy}</p>
             <p>{data.sections.footer.links["copy-name"]}</p>
