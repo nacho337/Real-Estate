@@ -4,7 +4,7 @@ import data from "../../data.json";
 
 function TwoSection() {
   return (
-    <div className="relative flex justify-center items-center mt-8 sm:mt-20 px-4 sm:px-0 mb-8">
+    <div id="enterprise" className="relative flex justify-center items-center mt-8 sm:mt-20 px-4 sm:px-0 mb-8">
       <div
         className="absolute inset-0 z-40 flex justify-center items-center left-4 sm:left-0 right-4 sm:right-0"
         style={{

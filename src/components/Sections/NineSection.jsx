@@ -4,7 +4,7 @@ import data from "../../data.json";
 const NineSection = () => {
   return (
     <div id="galeria">
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-8 gap-4 mt-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-10 gap-4 mt-8">
         {data.sections.eleven.photos.map((photo) => (
           <img
             src={photo.url}
@@ -14,7 +14,7 @@ const NineSection = () => {
           />
         ))}
       </div>
-      <h2 className="subtitle title-gradient mb-[70px] text-center">
+      <h2 className="subtitle title-gradient mb-[70px] text-center mt-9">
         {data.sections.eleven.title}
       </h2>
     </div>

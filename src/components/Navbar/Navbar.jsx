@@ -33,12 +33,12 @@ function Navbar() {
             
             {data.sections.header.navbar.map((item, index) => (
               <a
-                href="#"
+                href={item.link}
                 key={index}
                 className="min-w-max-content whitespace-nowrap ml-6"
               >
                 <li className="font-bold text-gray_default hover:text-primary active:text-primary">
-                  {item}
+                  {item.name}
                 </li>
               </a>
             ))}
@@ -73,14 +73,14 @@ function Navbar() {
                   <ul className="">
                     {data.sections.header.navbar.map((item, index) => (
                       <a
-                        href="#"
+                        href={item.link}
                         key={index}
                         className="min-w-max-content greenspace-nowrap"
                       >
                         <li
                           className={`font-bold text-black text-[14px] my-4 hover:text-primary active:text-green_dark`}
                         >
-                          {item}
+                          {item.name}
                         </li>
                       </a>
                     ))}

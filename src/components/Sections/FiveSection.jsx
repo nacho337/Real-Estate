@@ -5,7 +5,7 @@ function FiveSection() {
   const words = data.sections.seven.title.split(" ");
 
   return (
-    <div className="relative ">
+    <div id="pricing" className="relative ">
       <div className="grid sm:grid-cols-2 gap-2 mt-20">
         <div className="text-center">
           <h2 style={{ lineHeight: "1.2" }}>

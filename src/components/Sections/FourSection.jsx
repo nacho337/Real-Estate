@@ -5,7 +5,7 @@ function FourSection() {
   const words = data.sections.six.title.split(" ");
 
   return (
-    <div className="relative">
+    <div id="marketplace" className="relative">
       <div className="grid sm:grid-cols-2 gap-2 mt-20">
         <div className="flex flex-col justify-center items-start text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold">
           <h2 style={{ lineHeight: "1.2" }}>
@@ -32,10 +32,10 @@ function FourSection() {
             alt={data.sections.six.alt1}
             width="100%"
             height="auto"
-            className="block sm:hidden"
+            className="block sm:hidden "
           />
         </div>
-        <div className="hidden sm:block">
+        <div className="hidden sm:block ">
           <img src={data.sections.six.image1} alt={data.sections.six.alt1} />
         </div>
       </div>

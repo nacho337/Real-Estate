@@ -6,7 +6,7 @@ function Hero() {
 
   return (
     <div className="relative">
-      <div className="grid sm:grid-cols-2 gap-2 mt-20">
+      <div className="grid sm:grid-cols-2 gap-2 mt-44">
         <div className="flex flex-col justify-center items-start text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold">
           <h2 style={{ lineHeight: "1.2" }}>
             {words.map((word, index) => (
@@ -20,7 +20,7 @@ function Hero() {
               </span>
             ))}
           </h2>
-          <p className="text-black text-xs mt-7">{data.sections.one.subtitule}</p>
+          <p className="text-black text-xl mt-7">{data.sections.one.subtitule}</p>
           <div>
       <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
         Get Started

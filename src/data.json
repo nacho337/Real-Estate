@@ -1,21 +1,50 @@
 {
   "sections": {
     "header": {
-      "navbar": ["Product", "Team", "Enterprise", "Explore", "Marketplace","Pricing", "Contact"],
+      "navbar": [
+        {
+          "name": "Product",
+          "link": "/#product"
+        },
+        {
+          "name": "Team",
+          "link": "/#team"
+        },
+        {
+          "name": "Enterprise",
+          "link": "/#enterprise"
+        },
+        {
+          "name": "Explore",
+          "link": "/#explore"
+        },
+        {
+          "name": "Marketplace",
+          "link": "/#marketplace"
+        },
+        {
+          "name": "Pricing",
+          "link": "/#pricing"
+        },
+        {
+          "name": "Contact",
+          "link": "/#contact"
+        }
+      ],
+      
       "logo": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714160002/Captura_de_pantalla_2024-04-26_a_la_s_16.31.27_frclwt.png",
       "alt": "Landing logo",
       "text_logo": "DOLM"
     },
     "one": {
       "title": "AI MARKETING OPTIMIZED REACH",
-      "subtitule":"Our vision is to revolutionize the way brands and advertisers target, reach",
+      "subtitule": "Our vision is to revolutionize the way brands and advertisers target, reach",
       "image": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714161693/image_3_ouh7xv.png",
       "alt": "one section image"
     },
     "two": {
       "title": "",
-      "image1": {
-      }
+      "image1": {}
     },
     "three": {
       "title": "Trusted by the world's most ambitious teams.",
@@ -45,92 +74,76 @@
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714401819/daxHLFpIIRblgOGcEwI3IWIyrzG1605399693116_200x200_dqelgu.png",
           "alt": ""
         },
-  
         {
           "id": 6,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402196/FBN_Bank_bgqmjk.gif",
           "alt": ""
         },
-        
         {
           "id": 7,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402858/cf047624d9202b7d16ec40cf6bcc-0e9_q9vvyg.png",
           "alt": ""
         },
-        
         {
           "id": 8,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403066/images_2_it6e2h.png",
           "alt": ""
         },
-        
         {
           "id": 9,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403413/linux-icon-19_jqz7ki.png",
           "alt": ""
         },
-
         {
           "id": 10,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403630/spotify-app-logo-spotify-icon-transparent-free-png_mkpgba.webp",
           "alt": ""
         },
-
         {
           "id": 11,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403867/images_3_doulfn.png",
           "alt": ""
         },
-
         {
           "id": 12,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404210/24683-2-facebook-logo-photos-thumb_cxfobk.png",
           "alt": ""
         },
-
         {
           "id": 13,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404464/cocacola-logo-cocacola-icon-free-free-vector_iesh8f.jpg",
           "alt": ""
         },
-
         {
           "id": 14,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404958/image-asset_ldpmzo.jpg",
           "alt": ""
         },
-        
         {
           "id": 16,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714409977/netflix_2014_zmkpks.png",
           "alt": ""
         },
-
         {
           "id": 17,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714410722/TWYoDqir_400x400_zacmdn.png",
           "alt": ""
         },
-        
         {
           "id": 18,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411414/paypal-vector-logo-200x200_zeyev5.webp",
           "alt": ""
         },
-
         {
           "id": 19,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411510/brand_zxfyz5.gif",
           "alt": ""
         },
-        
         {
           "id": 20,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714504734/adobe-creative-cloud-logo-picture-3-200x200_jea9ja.png",
           "alt": ""
         }
-
-        
       ]
     },
     "four": {
@@ -157,7 +170,6 @@
       "subtitule": "It's all about getting your message in front of the right audience and creating those valuable relationships.Lear More about how DOML can help you do just that-all with a simple, easy-to-use platform.",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714420126/18_1_dt8muy.png",
       "alt1": ""
-      
     },
     "seven": {
       "title": "",
@@ -167,149 +179,128 @@
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714489566/Rectangle_10_t1rekb.png",
       "alt1": ""
     },
-    "eight":{
+    "eight": {
       "title": "AI MARKETING OPTIMIZED REACH",
       "subtitule": "DOML is a digital media agency powered by AI technolog providing real time, data-driven insights on your business and audience.The mission of DOML is to create the best experiences for companies through intelligent insights, powerful analytics and strategic execution.",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714422956/50_1_z9dpwa.png",
       "alt1": ""
- },
-     "nine":{
+    },
+    "nine": {
       "title": "AI MARKETING OPTIMIZED REACH",
       "subtitule": "It's all about getting your message in front of the right audience and creating those valuable relationships.Lear More about how DOML can help you do just that-all with a simple, easy-to-use platform.",
       "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714484900/22_msepkw.png",
       "alt1": ""
-},
-
-"ten":{
-  "title": "Get exponential reach vía AI Marketing",
-  "subtitule": "",
-  "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
-  "alt1": ""
-},
-
-"eleven":{
-  
-  "title": "Trusted by the world's most ambitious teams.",
-  "photos": [
-    {
-      "id": 1,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404652/images_4_hbug7e.png",
-      "alt": ""
     },
-    {
-      "id": 2,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396588/uba_logo_iq7rno.jpg",
-      "alt": ""
+    "ten": {
+      "title": "Get exponential reach vía AI Marketing",
+      "subtitule": "",
+      "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
+      "alt1": ""
     },
-    {
-      "id": 3,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396763/images_1_swsocp.png",
-      "alt": ""
+    "eleven": {
+      "title": "Trusted by the world's most ambitious teams.",
+      "photos": [
+        {
+          "id": 1,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404652/images_4_hbug7e.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396588/uba_logo_iq7rno.jpg",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396763/images_1_swsocp.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402049/WkUu90k3ghIWMFMpfoNO3z8Zz5r1700547823383_200x200_dw1ctt.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714401819/daxHLFpIIRblgOGcEwI3IWIyrzG1605399693116_200x200_dqelgu.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402196/FBN_Bank_bgqmjk.gif",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402858/cf047624d9202b7d16ec40cf6bcc-0e9_q9vvyg.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403066/images_2_it6e2h.png",
+          "alt": ""
+        },
+        {
+          "id": 9,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403413/linux-icon-19_jqz7ki.png",
+          "alt": ""
+        },
+        {
+          "id": 10,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403630/spotify-app-logo-spotify-icon-transparent-free-png_mkpgba.webp",
+          "alt": ""
+        },
+        {
+          "id": 11,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403867/images_3_doulfn.png",
+          "alt": ""
+        },
+        {
+          "id": 12,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404210/24683-2-facebook-logo-photos-thumb_cxfobk.png",
+          "alt": ""
+        },
+        {
+          "id": 13,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404464/cocacola-logo-cocacola-icon-free-free-vector_iesh8f.jpg",
+          "alt": ""
+        },
+        {
+          "id": 14,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404958/image-asset_ldpmzo.jpg",
+          "alt": ""
+        },
+        {
+          "id": 16,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714409977/netflix_2014_zmkpks.png",
+          "alt": ""
+        },
+        {
+          "id": 17,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714410722/TWYoDqir_400x400_zacmdn.png",
+          "alt": ""
+        },
+        {
+          "id": 18,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411414/paypal-vector-logo-200x200_zeyev5.webp",
+          "alt": ""
+        },
+        {
+          "id": 19,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411510/brand_zxfyz5.gif",
+          "alt": ""
+        },
+        {
+          "id": 20,
+          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714504734/adobe-creative-cloud-logo-picture-3-200x200_jea9ja.png",
+          "alt": ""
+        }
+      ]
     },
-    {
-      "id": 4,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402049/WkUu90k3ghIWMFMpfoNO3z8Zz5r1700547823383_200x200_dw1ctt.png",
-      "alt": ""
-    },
-    {
-      "id": 5,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714401819/daxHLFpIIRblgOGcEwI3IWIyrzG1605399693116_200x200_dqelgu.png",
-      "alt": ""
-    },
-
-    {
-      "id": 6,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402196/FBN_Bank_bgqmjk.gif",
-      "alt": ""
-    },
-    
-    {
-      "id": 7,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402858/cf047624d9202b7d16ec40cf6bcc-0e9_q9vvyg.png",
-      "alt": ""
-    },
-    
-    {
-      "id": 8,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403066/images_2_it6e2h.png",
-      "alt": ""
-    },
-    
-    {
-      "id": 9,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403413/linux-icon-19_jqz7ki.png",
-      "alt": ""
-    },
-
-    {
-      "id": 10,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403630/spotify-app-logo-spotify-icon-transparent-free-png_mkpgba.webp",
-      "alt": ""
-    },
-
-    {
-      "id": 11,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714403867/images_3_doulfn.png",
-      "alt": ""
-    },
-
-    {
-      "id": 12,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404210/24683-2-facebook-logo-photos-thumb_cxfobk.png",
-      "alt": ""
-    },
-
-    {
-      "id": 13,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404464/cocacola-logo-cocacola-icon-free-free-vector_iesh8f.jpg",
-      "alt": ""
-    },
-
-    {
-      "id": 14,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714404958/image-asset_ldpmzo.jpg",
-      "alt": ""
-    },
-    
-    {
-      "id": 16,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714409977/netflix_2014_zmkpks.png",
-      "alt": ""
-    },
-
-    {
-      "id": 17,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714410722/TWYoDqir_400x400_zacmdn.png",
-      "alt": ""
-    },
-    
-    {
-      "id": 18,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411414/paypal-vector-logo-200x200_zeyev5.webp",
-      "alt": ""
-    },
-
-    {
-      "id": 19,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411510/brand_zxfyz5.gif",
-      "alt": ""
-    },
-    
-    {
-      "id": 20,
-      "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714504734/adobe-creative-cloud-logo-picture-3-200x200_jea9ja.png",
-      "alt": ""
-    }
-
-  ]
-},
-
-
-        "footer": {
-      
+    "footer": {
       "alt": "Landing logo",
       "text_logo": "",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+      "paragraph": "Copyright 2022 DOML. All rights Reserved.",
       "links": {
         "Company": {
           "name": "",
@@ -322,22 +313,29 @@
         },
         "Support": {
           "name": "",
-          "data": ["Free Market Analysis", "New Construccion", "Contact"]
+          "data": [
+            "",
+            "",
+            ""
+          ]
         },
         "Contact": {
-          "name": "Contact",
-          "data": ["", "+1843228662422", ""]
+          "name": "",
+          "data": [
+            "",
+            "Terms of Use & Privacy Policy",
+            ""
+          ]
         },
-        "facebook-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/hjq0dwit3dofven8tuqv.png",
-        "twitter-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/vmtv5mcgy42lqyohhoqd.png",
-        "linkedin-icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1713318281/medical_landing/aaq0ffsigfezrku5k2gt.png",
-        "social-media-alt": "social media image",
+        "facebook-icon": "",
+        "twitter-icon": "",
+        "linkedin-icon": "",
+        "social-media-alt": "",
         "copy": "",
         "copy-name": "",
         "designBy": "",
         "designBy-mame": ""
       }
     }
-    
   }
 }

@@ -10,7 +10,7 @@ function LandingPage() {
     <div>
       <Navbar />
       <Layout>
-        <Hero />
+        <section id="product"><Hero /></section>
         <Body />
       </Layout>
       <Footer />
