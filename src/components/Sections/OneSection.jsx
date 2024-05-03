@@ -4,13 +4,13 @@ import data from "../../data.json";
 const OneSection = () => {
   return (
     <div id="team">
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-10 gap-4 mt-8">
+      <div className="flex w-full h-auto md:w-auto lg:w-auto xl:w-auto mt-8 w-16 h-16">
         {data.sections.three.photos.map((photo) => (
           <img
             src={photo.url}
             alt={photo.alt}
             key={photo.id}
-            className="object-cover w-full h-full rounded-custom"
+            className="object-cover w-full h-full rounded-custom w-48"
           />
         ))}
       </div>

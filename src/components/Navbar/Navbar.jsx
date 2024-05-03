@@ -78,7 +78,7 @@ function Navbar() {
                         className="min-w-max-content greenspace-nowrap"
                       >
                         <li
-                          className={`font-bold text-black text-[14px] my-4 hover:text-primary active:text-green_dark`}
+                          className={`font-bold text-black text-[14px] my-4 hover:text-primary active:text-green_dark `}
                         >
                           {item.name}
                         </li>

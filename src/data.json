@@ -59,11 +59,7 @@
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396588/uba_logo_iq7rno.jpg",
           "alt": ""
         },
-        {
-          "id": 3,
-          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396763/images_1_swsocp.png",
-          "alt": ""
-        },
+
         {
           "id": 4,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402049/WkUu90k3ghIWMFMpfoNO3z8Zz5r1700547823383_200x200_dw1ctt.png",
@@ -133,17 +129,9 @@
           "id": 18,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411414/paypal-vector-logo-200x200_zeyev5.webp",
           "alt": ""
-        },
-        {
-          "id": 19,
-          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411510/brand_zxfyz5.gif",
-          "alt": ""
-        },
-        {
-          "id": 20,
-          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714504734/adobe-creative-cloud-logo-picture-3-200x200_jea9ja.png",
-          "alt": ""
         }
+        
+        
       ]
     },
     "four": {
@@ -211,11 +199,6 @@
           "alt": ""
         },
         {
-          "id": 3,
-          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396763/images_1_swsocp.png",
-          "alt": ""
-        },
-        {
           "id": 4,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402049/WkUu90k3ghIWMFMpfoNO3z8Zz5r1700547823383_200x200_dw1ctt.png",
           "alt": ""
@@ -284,17 +267,8 @@
           "id": 18,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411414/paypal-vector-logo-200x200_zeyev5.webp",
           "alt": ""
-        },
-        {
-          "id": 19,
-          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411510/brand_zxfyz5.gif",
-          "alt": ""
-        },
-        {
-          "id": 20,
-          "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714504734/adobe-creative-cloud-logo-picture-3-200x200_jea9ja.png",
-          "alt": ""
         }
+       
       ]
     },
     "footer": {

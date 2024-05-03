@@ -35,7 +35,7 @@ function FourSection() {
             className="block sm:hidden "
           />
         </div>
-        <div className="hidden sm:block ">
+        <div className="hidden sm:block mt-0">
           <img src={data.sections.six.image1} alt={data.sections.six.alt1} />
         </div>
       </div>
