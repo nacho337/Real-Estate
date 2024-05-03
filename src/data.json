@@ -270,7 +270,14 @@
         }
        
       ]
-    },
+      },
+      "twelve": {
+        "title": "Proyects",
+        "subtitule": "",
+        "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
+        "alt1": ""
+      },
+    
     "footer": {
       "alt": "Landing logo",
       "text_logo": "",
