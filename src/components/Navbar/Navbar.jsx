@@ -43,9 +43,7 @@ function Navbar() {
               </a>
             ))}
           </ul>
-          <div>
-          <input type="text" className="text-white bg-black rounded-md" placeholder="Search DOML" />
-         </div>
+          
           <div className="items-center text-lg hidden sm:flex gap-6 min-w-max-content px-4">
             <a
               href="#"
@@ -53,6 +51,9 @@ function Navbar() {
             >
               {data.sections.header.userLogin}
             </a>
+            <div>
+          <input type="text" className="text-white bg-black rounded-md" placeholder="Search DOML" />
+         </div>
             <button className="bg-white text-black py-2 px-4 rounded">
               <p className="font-bold text-[14px] md:text-[px] lg:text-[18px]">Sign in
                 {data.sections.header.userSignUp}
@@ -63,12 +64,13 @@ function Navbar() {
                 {data.sections.header.userSignUp}
               </p>
             </button>
+            
           </div>
           <div className="sm:hidden">
             {isMenuOpen ? (
               <div className="relative">
                 <div onClick={handleMenuOpen}
-                 className="text-primary w-8 h-8 cursor-pointer">///</div>
+                 className="text-primary w-8 h-8 cursor-pointer">////</div>
                 <div className="absolute z-40 right-0 bg-green_light bg-white px-6 rounded-sm shadow-xl">
                   <ul className="">
                     {data.sections.header.navbar.map((item, index) => (
@@ -99,7 +101,7 @@ function Navbar() {
               //   className="text-primary w-8 h-8 cursor-pointer"
               // />
               <div onClick={handleMenuOpen}
-                 className="text-primary w-8 h-8 cursor-pointer">*</div>
+                 className="text-primary w-8 h-8 cursor-pointer">////</div>
             )}
           </div>
         </nav>
