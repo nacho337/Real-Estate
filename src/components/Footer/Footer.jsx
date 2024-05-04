@@ -87,13 +87,13 @@ function Footer() {
           <div className="mt-2">
             {data.sections.footer.links.Contact.data.map((item, index) => (
               <a key={index}>
-                <p className="sm:text-base text-sm truncate cursor-pointer mt-1 sm:mt-3 tracking-normal hover:text-primary">
+                {/* <p className="sm:text-base text-sm truncate cursor-pointer mt-1 sm:mt-3 tracking-normal hover:text-primary">
                   {item}
-                </p>
+                </p> */}
               </a>
             ))}
           </div>
-          <div
+          {/* <div
             className="absolute hidden sm:flex items-center gap-1 text-[12px] bottom-0 right-[10%]"
             style={{ minWidth: "max-content" }}
           >
@@ -101,7 +101,7 @@ function Footer() {
               {data.sections.footer.links.designBy}
             </p>
             <p>{data.sections.footer.links["designBy-mame"]}</p>
-          </div>
+          </div> */}
         </div>
         {/* Fin de las columnas */}
       </div>

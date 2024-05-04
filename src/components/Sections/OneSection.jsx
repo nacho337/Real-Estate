@@ -4,7 +4,7 @@ import data from "../../data.json";
 const OneSection = () => {
   return (
     <div id="team">
-      <div className="flex w-full h-auto md:w-auto lg:w-auto xl:w-auto mt-8 w-16 h-16 ">
+      <div className="grid grid-cols-8 gap-4">
         {data.sections.three.photos.map((photo) => (
           <img
             src={photo.url}
