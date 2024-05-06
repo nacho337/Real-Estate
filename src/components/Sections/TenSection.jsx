@@ -23,8 +23,8 @@ function TenSection() {
           <p className="text-black text-xs mt-7">{data.sections.twelve.subtitule}</p>
           <div>
       <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
-        Get in touch
-        <a href="mailto:correo@example.com"></a>
+        
+        <a href="mailto:correo@example.com">Get in touch</a>
       </button>
       <div className="text-xl mt-7 text-center">
       <p></p>
