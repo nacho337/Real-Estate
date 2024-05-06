@@ -51,9 +51,9 @@ function Navbar() {
             >
               {data.sections.header.userLogin}
             </a>
-            <div>
+            {/* <div>
           <input type="text" className="text-white bg-black rounded-md" placeholder="Search DOML" />
-         </div>
+         </div> */}
             <button className="bg-white text-black py-2 px-4 rounded whitespace-nowrap">
               <p className="font-bold text-[14px] md:text-[px] lg:text-[18px]">Sign in
                 {data.sections.header.userSignUp}

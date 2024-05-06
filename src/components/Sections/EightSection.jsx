@@ -22,9 +22,9 @@ function EightSection() {
           </h2>
           <p className="text-black text-xs mt-7">{data.sections.ten.subtitule}</p>
           <div>
-          <div>
+          {/* <div>
           <input type="text" className="text-white bg-black rounded-md text-xl" placeholder="Enter your work email" />
-         </div>
+         </div> */}
       <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
         Get in touch
       </button>
